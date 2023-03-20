@@ -1,0 +1,33 @@
+Exercícios complementares
+
+Exercícios de texto
+
+1. Crie uma página Web que permita visualizar o seu nome escrito a verde;
+
+2. Crie uma página Web que permita visualizar os números de 1 a 10, cada um numa cor diferente;
+
+3. Crie uma página Web que apresente na barra de título do navegador "Isto é uma página Web";
+
+4. Crie uma página Web que permita visualizar a seguinte mensagem: "Quando foi esta página criada? Confira no título da página". Coloque a data na barra de título do navegador;
+
+Exercícios com hiperligações
+
+5. Crie uma página Web onde existam hiperligações para vários motores de busca;
+
+6. Crie uma página Web com ligações para cinco websites, mas cujo resultado, quando se seguem as ligações, seja a abertura desse website numa nova página;
+
+7. Crie uma página com várias linhas de texto. Crie um link numa palavra da primeira linha que faça saltar para a última linha de texto;
+
+8. Crie uma página com várias linhas de texto. Crie um link numa palavra da primeira linha que faça saltar para a última linha de texto. Nessa última linha deverá haver outro link que faça saltar para a linha de topo;
+
+Exercícios com imagens
+
+9. Crie uma página web que contenha cinco imagens. Entre cada imagem devem existir duas linhas em branco. Cada imagem deve ter um título;
+
+10. Crie uma página web com uma imagem, a qual, quando activada, deve proporcionar a abertura de uma nova página referente a um motor de busca;
+
+11. Crie uma página web com uma imagem, a qual, quando activada, faça descarregar um ficheiro;
+
+12. Crie uma página web com uma imagem, a qual, quando activada, deverá saltar para outra imagem que exista no final da página.
+
+Nota: deve incluír o atributo alt em cada tag <img>
